@@ -1,4 +1,4 @@
-import "../styles/global.css";
+import "../styles/styles.css";
 
 export default function IntroPilot() {
   return (
