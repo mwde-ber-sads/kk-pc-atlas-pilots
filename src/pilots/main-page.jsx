@@ -7,6 +7,8 @@ export default function IntroPilot() {
         <h1>Исчезающие Ледники</h1>
         <p className="subtitle">Пилотный эпизод проекта “Atlas Pilots”</p>
       </header>
+      
+      <h1 className="text-3xl font-bold text-blue-500">Tailwind работает!</h1>
 
       <section className="pilot-section">
         <h2>Введение</h2>
