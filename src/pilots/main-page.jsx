@@ -4,7 +4,7 @@ export default function IntroPilot() {
   return (
     <main className="pilot-layout">
       <header className="pilot-header">
-        <h1>Исчезающие Ледники</h1>
+        <h1>Исчезающие</h1>
         <p className="subtitle">Пилотный эпизод проекта “Atlas Pilots”</p>
       </header>
       
